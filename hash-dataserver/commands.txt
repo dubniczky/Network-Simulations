@@ -1,0 +1,5 @@
+#Start server
+python server.py 127.0.0.1 8000
+
+Start client
+python client.py 127.0.0.1 8000
